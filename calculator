@@ -1,0 +1,17 @@
+print("WELCOME TO CALCULATOR\n")
+a=input("Enter your input\n")
+b=input("Enter your input\n")
+print("1.ADDITION\n2.SUBTRACTION\n3.MULTIPLICATION\n4.DIVISION\n")
+n=input("Enter your option")
+ if n==1:
+ print(a+b)
+ elif n==2:
+ print(a-b)
+ elif n==3:
+ print(a*b)
+ elif n==4:
+ print(a/b)
+ else
+ print("invalid")
+    
+        
